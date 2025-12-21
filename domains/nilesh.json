@@ -1,0 +1,21 @@
+{
+    "user": {
+        "username": "thenil3sh",
+        "email": "ton3s@duck.com",
+        "discord": "neembu"
+    },
+    "subdomain": "nilesh",
+    "records": [
+        {
+            "type": "CNAME",
+            "name": "nilesh",
+            "value": "thenil3sh.github.io",
+            "proxied": false
+        },
+        {
+            "type": "TXT",
+            "name": "_github-pages-challenge-thenil3sh.nilesh",
+            "value": "31062db1face4a0b1814b8da51ef34"
+        }
+    ]
+}
