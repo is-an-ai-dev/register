@@ -1,0 +1,14 @@
+{
+    "user": {
+        "username": "outofsandbox"
+    },
+    "subdomain": "i",
+    "records": [
+        {
+          "type": "CNAME",
+          "name": "i",
+          "value": "dynamic-redirect.pages.dev",
+          "proxied": true
+        }
+    ]
+}
