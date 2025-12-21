@@ -1,0 +1,20 @@
+{
+    "user": {
+        "username": "tr1xem",
+        "email": "trix@is-an-ai.dev",
+        "discord": "tr1x_em"
+    },
+    "subdomain": "trix",
+    "records": [
+        {
+            "type": "URL",
+            "name": "trix",
+            "value": "https://trix.is-a.dev"
+        },
+        {
+            "type": "TXT",
+            "name": "_discord.trix",
+            "value": "dh=19e8ae4b10637d5025674833b9073d3f4b057367"
+        }
+    ]
+}
