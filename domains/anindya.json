@@ -10,8 +10,19 @@
     {
       "type": "CNAME",
       "name": "anindya",
-      "value": "anindyajha.github.io",
+      "value": "lickzyv.github.io",
       "proxied": false
+    },
+    {
+      "type": "CNAME",
+      "name": "_vercel.anindya",
+      "value": "272b798a2c745fb4.vercel-dns-017.com",
+      "proxied": false
+    },
+    {
+      "type": "TXT",
+      "name": "_vercel.anindya",
+      "value": "vc-domain-verify=anindya.is-an-ai.dev,ef2585a572bd2f5732ec"
     }
   ]
 }
