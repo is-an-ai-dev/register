@@ -12,6 +12,17 @@
       "name": "anindya",
       "value": "anindyajha.github.io",
       "proxied": false
+    },
+    {
+      "type": "CNAME",
+      "name": "_vercel",
+      "value": "272b798a2c745fb4.vercel-dns-017.com",
+      "proxied": false
+    },
+    {
+      "type": "TXT",
+      "name": "_vercel",
+      "value": "vc-domain-verify=anindya.is-an-ai.dev,ef2585a572bd2f5732ec"
     }
   ]
 }
