@@ -10,7 +10,7 @@
     {
       "type": "CNAME",
       "name": "shreyash",
-      "value": "f3709b45b82da2c1.vercel-dns-017.com.",
+      "value": "f3709b45b82da2c1.vercel-dns-017.com",
       "proxied": false
     },
     {
@@ -29,7 +29,7 @@
       "type": "TXT",
       "name": "shreyash",
       "value": "v=spf1 include:spf.improvmx.com ~all"
-    }
+    },
     {
       "type": "TXT",
       "name": "_vercel",
