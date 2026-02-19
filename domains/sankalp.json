@@ -1,0 +1,20 @@
+{
+    "user": {
+        "username": "sankalp",
+        "email": "sankalp@is-an-ai.dev",
+        "discord": "sankalp369"
+    },
+    "subdomain": "sankalp",
+    "records": [
+        {
+            "type": "URL",
+            "name": "sankalp",
+            "value": "https://sankalptharu.com.np"
+        },
+        {
+            "type": "TXT",
+            "name": "_discord.sankalp",
+            "value": "dh=3af3f4b770280c84ad241b7fddb0c07c14a110c0"
+        }
+    ]
+}

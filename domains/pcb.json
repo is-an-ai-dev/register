@@ -1,0 +1,15 @@
+{
+    "user": {
+        "username": "pcb1631",
+        "email": "josiah.backup02@gmail.com",
+        "discord": "pcb.x86"
+    },
+    "subdomain": "pcb",
+    "records": [
+        {
+            "type": "AAAA",
+            "name": "ssh.pcb",
+            "value": "2001:f40:99c:350e:1a0a:1471:2fa1:4f45"
+        }
+    ]
+}
