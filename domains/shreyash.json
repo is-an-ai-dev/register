@@ -10,7 +10,7 @@
     {
       "type": "CNAME",
       "name": "shreyash",
-      "value": "shreyashtailor.github.io",
+      "value": "f3709b45b82da2c1.vercel-dns-017.com.",
       "proxied": false
     },
     {
@@ -29,6 +29,12 @@
       "type": "TXT",
       "name": "shreyash",
       "value": "v=spf1 include:spf.improvmx.com ~all"
+    }
+    {
+      "type": "TXT",
+      "name": "_vercel",
+      "value": "vc-domain-verify=shreyash.is-an-ai.dev,a6ddc8637a3a79df532a",
+      "proxied": false
     }
   ]
 }
