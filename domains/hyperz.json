@@ -1,0 +1,13 @@
+{
+    "user": {
+        "username": "harbour777"
+    },
+    "subdomain": "hyperz",
+    "records": [
+        {
+            "type": "A",
+            "name": "hyperz",
+            "value": "111.119.218.128"
+        }
+    ]
+}
