@@ -10,7 +10,7 @@
     {
       "type": "CNAME",
       "name": "shreyash",
-      "value": "f3709b45b82da2c1.vercel-dns-017.com",
+      "value": "011156bb51495983.vercel-dns-017.com.",
       "proxied": false
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "type": "TXT",
-      "name": "_vercel.shreyash",
+      "name": "_vercel",
       "value": "vc-domain-verify=shreyash.is-an-ai.dev,a6ddc8637a3a79df532a"
     }
   ]
