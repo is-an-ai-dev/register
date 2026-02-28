@@ -16,24 +16,19 @@
     {
       "type": "MX",
       "name": "shreyash",
-      "target": "mx1.improvmx.com",
+      "target": "mx1.improvmx.com.",
       "priority": 10
     },
     {
       "type": "MX",
       "name": "shreyash",
-      "target": "mx2.improvmx.com",
+      "target": "mx2.improvmx.com.",
       "priority": 20
     },
     {
       "type": "TXT",
       "name": "shreyash",
       "value": "v=spf1 include:spf.improvmx.com ~all"
-    },
-    {
-      "type": "TXT",
-      "name": "_vercel.shreyash",
-      "value": "vc-domain-verify=shreyash.is-an-ai.dev,a6ddc8637a3a79df532a"
     }
   ]
 }
