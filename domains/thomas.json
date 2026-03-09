@@ -1,0 +1,20 @@
+{
+    "user": {
+        "username": "thomas",
+        "email": "thomasnowprod@proton.me"
+    },
+    "subdomain": "thomas",
+    "records": [
+        {
+            "type": "CNAME",
+            "name": "thomas",
+            "value": "537f3f89cdef7f0e.vercel-dns-017.com",
+            "proxied": false
+        },
+        {
+            "type": "TXT",
+            "name": "_vercel.thomas",
+            "value": "vc-domain-verify=thomas.is-an-ai.dev,d2e550c18bd19c7a4bdb"
+        }
+    ]
+}
