@@ -1,17 +1,23 @@
 {
-  "description": "AI for Africa project - bridging the gap in AI accessibility."
-  "owner": {
-    "username": "aiforafrica",
-    "email": "officialai4africa@gmail.com"
-  },
-  "records": {
-    "CNAME": "aiforafrica.github.io",
-    "MX": [
-      "mx1.improvmx.com",
-      "mx2.improvmx.com"
-    ],
-    "TXT": [
-      "v=spf1 include:spf.improvmx.com ~all"
+    "owner": {
+        "username": "aiforafrica",
+        "email": "officialai4africa@gmail.com"
+    },
+    "subdomain": "aiforafrica",
+    "records": [
+        {
+            "type": "CNAME",
+            "value": "aiforafrica.github.io",
+            "name": "aiforoafrica"
+        },
+        {
+            "type": "MX",
+            "target": "mx2.improvmx.com"
+        },
+        {
+            "type": "TXT",
+            "name": "aiforafrica",
+            "value": "v=spf1 include:spf.improvmx.com ~all"
+        }
     ]
-  }
 }
