@@ -1,18 +1,17 @@
 {
-    "description": "AI for Africa project - bridging the gap in AI accessibility.",
-    "repo": "https://github.com/aiforafrica/aiforafrica.github.io",
-    "owner": {
-        "username": "aiforafrica",
-        "email": "officialai4africa@gmail.com"
-    },
-    "records": {
-        "CNAME": "aiforafrica.github.io",
-        "MX": [
-            "mx1.improvmx.com",
-            "mx2.improvmx.com"
-        ],
-        "TXT": [
-            "v=spf1 include:spf.improvmx.com ~all"
-        ]
-    }
+  "description": "AI for Africa project - bridging the gap in AI accessibility."
+  "owner": {
+    "username": "aiforafrica",
+    "email": "officialai4africa@gmail.com"
+  },
+  "records": {
+    "CNAME": "aiforafrica.github.io",
+    "MX": [
+      "mx1.improvmx.com",
+      "mx2.improvmx.com"
+    ],
+    "TXT": [
+      "v=spf1 include:spf.improvmx.com ~all"
+    ]
+  }
 }
