@@ -1,39 +1,39 @@
 {
-  "user": {
-    "username": "ShreyashTailor"
-  },
-  "description": {
-    "purpose": "Portfolio Site"
-  },
-  "subdomain": "shreyash",
-  "records": [
-    {
-      "type": "CNAME",
-      "name": "shreyash",
-      "value": "011156bb51495983.vercel-dns-017.com.",
-      "proxied": false
+    "user": {
+        "username": "ShreyashTailor"
     },
-    {
-      "type": "MX",
-      "name": "shreyash",
-      "target": "mx1.improvmx.com",
-      "priority": 10
+    "description": {
+        "purpose": "Portfolio Site"
     },
-    {
-      "type": "MX",
-      "name": "shreyash",
-      "target": "mx2.improvmx.com",
-      "priority": 20
-    },
-    {
-      "type": "TXT",
-      "name": "shreyash",
-      "value": "v=spf1 include:spf.improvmx.com ~all"
-    },
-    {
-      "type": "TXT",
-      "name": "_vercel.shreyash",
-      "value": "vc-domain-verify=shreyash.is-an-ai.dev,a6ddc8637a3a79df532a"
-    }
-  ]
+    "subdomain": "shreyash",
+    "records": [
+        {
+            "type": "CNAME",
+            "name": "shreyash",
+            "value": "011156bb51495983.vercel-dns-017.com",
+            "proxied": false
+        },
+        {
+            "type": "MX",
+            "name": "shreyash",
+            "target": "mx1.improvmx.com",
+            "priority": 10
+        },
+        {
+            "type": "MX",
+            "name": "shreyash",
+            "target": "mx2.improvmx.com",
+            "priority": 20
+        },
+        {
+            "type": "TXT",
+            "name": "shreyash",
+            "value": "v=spf1 include:spf.improvmx.com ~all"
+        },
+        {
+            "type": "TXT",
+            "name": "_vercel.shreyash",
+            "value": "vc-domain-verify=shreyash.is-an-ai.dev,a6ddc8637a3a79df532a"
+        }
+    ]
 }
