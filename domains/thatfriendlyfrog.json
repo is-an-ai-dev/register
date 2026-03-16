@@ -1,0 +1,20 @@
+{
+    "user": {
+        "username": "thatfriendlyfrog",
+        "email": "froggy@is-an-ai.dev",
+        "discord": "thatfriendlyfrog"
+    },
+    "subdomain": "thatfriendlyfrog",
+    "records": [
+        {
+            "type": "CNAME",
+            "name": "thatfriendlyfrog",
+            "value": "thatfriendlyfrog.github.io"
+        },
+        {
+            "type": "TXT",
+            "name": "_discord.thatfriendlyfrog",
+            "value": "dh=a037710721ff50011a9e39a8a83a5d27658caa16"
+        }
+    ]
+}
