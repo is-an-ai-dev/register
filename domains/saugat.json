@@ -1,0 +1,35 @@
+{
+    "user": {
+        "username": "Saugat-Chaudhary",
+        "email": "saugatchaudharysami@gmail.com"
+    },
+    "description": {
+        "purpose": "for portfolio and email"
+    },
+    "subdomain": "saugat",
+    "records": [
+        {
+            "type": "CNAME",
+            "name": "saugat",
+            "value": "saugatchaudhary.vercel.app",
+            "proxied": false
+        },
+        {
+            "type": "MX",
+            "name": "saugat",
+            "target": "mx1.improvmx.com",
+            "priority": 10
+        },
+        {
+            "type": "MX",
+            "name": "saugat",
+            "target": "mx2.improvmx.com",
+            "priority": 20
+        },
+        {
+            "type": "TXT",
+            "name": "saugat",
+            "value": "v=spf1 include:spf.improvmx.com ~all"
+        }
+    ]
+}
