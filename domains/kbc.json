@@ -1,0 +1,30 @@
+{
+    "user": {
+        "username": "kizzlah"
+    },
+    "subdomain": "kbc",
+    "records": [
+        {
+            "type": "CNAME",
+            "name": "kbc",
+            "value": "kizzlah.github.io"
+        },
+        {
+            "type": "MX",
+            "name": "kbc",
+            "target": "mx1.improvmx.com",
+            "priority": 10
+        },
+        {
+            "type": "MX",
+            "name": "kbc",
+            "target": "mx2.improvmx.com",
+            "priority": 20
+        },
+        {
+            "type": "TXT",
+            "name": "kbc",
+            "value": "v=spf1 include:spf.improvmx.com ~all"
+        }
+    ]
+}
