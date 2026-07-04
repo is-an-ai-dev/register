@@ -7,14 +7,13 @@
     {
       "type": "CNAME",
       "name": "joshuahm",
-      "value": "joshuahm-portfolio.vercel.app",
+      "value": "c958ff183ddd75d5.vercel-dns-017.com",
       "proxied": false
     },
     {
-      "type": "CNAME",
-      "name": "mljosh",
-      "value": "joshuahm-portfolio.vercel.app",
-      "proxied": false
+      "type": "TXT",
+      "name": "_vercel.joshuahm",
+      "value": "vc-domain-verify=joshuahm.is-an-ai.dev,6868e2a130d346de6f2d"
     }
   ]
 }
