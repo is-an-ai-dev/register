@@ -1,0 +1,20 @@
+{
+  "user": {
+    "username": "randomboi404"
+  },
+  "subdomain": "joshuahm",
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "joshuahm",
+      "value": "joshuahm-portfolio.vercel.app",
+      "proxied": false
+    },
+    {
+      "type": "CNAME",
+      "name": "mljosh",
+      "value": "joshuahm-portfolio.vercel.app",
+      "proxied": false
+    }
+  ]
+}
