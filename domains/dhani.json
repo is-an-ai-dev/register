@@ -1,0 +1,35 @@
+{
+  "user": {
+    "username": "Dhanikesh-Karunanithi"
+  },
+  "description": {
+    "purpose": "Dhani Laboratory — personal site and projects"
+  },
+  "subdomain": "dhani",
+  "records": [
+    {
+      "type": "A",
+      "name": "dhani",
+      "value": "185.199.108.153",
+      "proxied": false
+    },
+    {
+      "type": "A",
+      "name": "dhani",
+      "value": "185.199.109.153",
+      "proxied": false
+    },
+    {
+      "type": "A",
+      "name": "dhani",
+      "value": "185.199.110.153",
+      "proxied": false
+    },
+    {
+      "type": "A",
+      "name": "dhani",
+      "value": "185.199.111.153",
+      "proxied": false
+    }
+  ]
+}
