@@ -1,0 +1,15 @@
+{
+  "user": {
+    "username": "WSL043"
+  },
+  "description": "Independent community portable desktop distribution of DeepSeek Harness",
+  "subdomain": "dsh-portable",
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "dsh-portable",
+      "value": "wsl043.github.io",
+      "proxied": false
+    }
+  ]
+}
